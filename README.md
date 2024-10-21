@@ -43,16 +43,15 @@ Special thanks to the following people who contributed to this project:
 
 <table> 
   <tr>
-      <td align="center">
-        <a href="https://github.com/Tonyzin" title="Tonyzin's GitHub Profile"> 
-          <img src="https://avatars.githubusercontent.com/u/181393325?v=4" width="100px;" alt="Tonyzin's GitHub Profile Picture"/><br> 
-    <sub><b>Tonyzin</b></sub> </a> </td>
 
-    
  <td align="center"> 
   <a href="https://github.com/raphaelsimoesg" title="Raphael Simões's GitHub Profile"> 
     <img src="https://avatars.githubusercontent.com/u/95584209?s=400&u=5955222de40126211aa2b50c07341f5e5290a970&v=4" width="100px;" alt="Raphael Simões's GitHub Profile Picture"/><br> 
     <sub><b>R. Simões G.</b></sub> </a> </td> 
+      <td align="center">
+        <a href="https://github.com/Tonyzin" title="Tonyzin's GitHub Profile"> 
+          <img src="https://avatars.githubusercontent.com/u/181393325?v=4" width="100px;" alt="Tonyzin's GitHub Profile Picture"/><br> 
+    <sub><b>Tonyzin</b></sub> </a> </td>
 
   </tr>
 </table>
